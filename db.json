@@ -1,14 +1,5 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "name": "ring ring",
+  "description": "doorbell",
+  "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/...and_that_includes_you%2C_postman_%2821773598783%29.jpg/800px-...and_that_includes_you%2C_postman_%2821773598783%29.jpg"
 }
